@@ -7,7 +7,7 @@ This repository contains my Week 1 Data Science projects focusing on **Python, N
 
 ## 📁 Project Structure
 
-```
+
 
 week1-data-science/
 │
@@ -121,6 +121,5 @@ jupyter notebook
 **Şevval Bilgin**
 GitHub: [https://github.com/engsevvalbilgin](https://github.com/engsevvalbilgin)
 
-```
 
 
